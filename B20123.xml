@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation touching the articles of peace with Argiers, Tunis, and Tripoli.</title>
+            <title>Proclamatiions. 1663-01-29</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20123</idno><idno type="EEBO-CITATION">99888014</idno>
+  <idno type="VID">192471</idno>
+  <idno type="EEBO-PROQUEST">2240882077</idno>
+  
+            <idno type="STC">Wing C3588</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[30]</idno>
+            <idno type="STC">ESTC R35970</idno>
+            <idno type="PROQUEST">ocm99888014</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888014e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192471)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[136])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation touching the articles of peace with Argiers, Tunis, and Tripoli.</title>
+                  <title>Proclamatiions. 1663-01-29</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662 [i.e. 1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Dated at end: "Given at the court at Whitehall, January the 29th, 1662/3.".</note>
+                  <note>Arms 66; Steele notation: Navi- these 2) observation granted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Foreign relations --  Africa --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192471:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal arms of England, circa 1662</figDesc>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ONI · SOIT · QVI · MAL · Y · P<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>NSE</p>
+                  <p>DIEV · ET · MON · DROIT</p>
+               </figure> By the King. A PROCLAMATION Touching the Articles of Peace with <hi>Argiers, Tunis,</hi> and <hi>Tripoli.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty taking into His serious consideration the great detriment which the Navi<g ref="char:EOLhyphen"/>gation of these His Majesties Kingdoms was daily exposed to, by the injuries su<g ref="char:EOLhyphen"/>stained from the Ships of War belonging to <hi>Argier, Tunis,</hi> and <hi>Tripoli,</hi> was gratious<g ref="char:EOLhyphen"/>ly pleased (out of the tender regard He hath to the good of Trade and Navigation) at a great expence of Treasure, to send a Fleet into the <hi>Mediterranean</hi> Seas, which it hath pleased Almighty God so to prosper, as to bring that Vndertaking to the desired issue of Peace, on terms honourable and advantagious to the Trade and Navigation of these His Majesties Kingdoms. For the Preservation whereof, (in which as well His Majesties Honour, as the welfare of His good Subjects, is so nearly concerned) His Majesty, by and with the Advice of His Privy Council, hath thought fit to Command the same to be forthwith Printed and Published; And His Majesty doth hereby strictly Charge and Command, That the said Articles of Peace between His Majesty and the City and Kingdom of <hi>Argiers,</hi> and Territories thereof, concluded by Sir <hi>John Lawson</hi> Knight, according to Instructions received in that behalf, And also the Articles of Peace concluded by the said Sir <hi>John Lawson</hi> the Fifth day of <hi>October 1662.</hi> between His said Majesty and <hi>Ma<g ref="char:EOLhyphen"/>homet Bassa</hi> the <hi>Duana</hi> of the City of <hi>Tunis, Hage Mustapha Dei, Morett Bei,</hi> and the rest of the Soldiers in the Kingdom of <hi>Tunis,</hi> And also the Articles of Peace concluded by the said Sir <hi>John Lawson,</hi> the Eighteenth of <hi>October,</hi> One thousand six hundred sixty and two, between His said Majesty and <hi>Osman Bassa,</hi> and the people of the City and Kingdom of <hi>Tripoli,</hi> be by all His Majesties Subjects of what degree or qua<g ref="char:EOLhyphen"/>lity soever, duely observed and performed, upon pains of the most severe punishments due to the con<g ref="char:EOLhyphen"/>temners of His Majesties Commands, and violaters of Publick Faith. For the more exact observation whereof, and for securing the honour of the <hi>English</hi> Navigation (to which it would be a great blemish, if persons or goods received into their Protection, should by the Commanders of any <hi>English</hi> Ships be with<g ref="char:EOLhyphen"/>out resistance delivered into the hands of their enemies) His Majesty hath thought fit, and hereby doth Command, That when any of His Majesties Subjects shall receive on board the Ships under their Com<g ref="char:EOLhyphen"/>mand, any <hi>Turks,</hi> or their Goods, they shall to the utmost of their power, by fighting or otherwise, preserve and defend them against any whatsoever. For the more effectual execution whereof, and to the end that the Consul and other His Majesties good Subjects residing within the Territories of <hi>Argiers, Tunis</hi> and <hi>Tripoli,</hi> may not be exposed to make reparation for such losses as the <hi>Turks</hi> may have received in that kind by the fault of others, His Majesty doth hereby Order and Command all Masters of Ships belonging to any of His Dominions, to give, and doth hereby Authorize and Require the <hi>English</hi> Consuls in the <hi>Turkish</hi> Do<g ref="char:EOLhyphen"/>minions, to demand and receive Security for the doing and performing thereof accordingly. And in case any Master of a Ship shall refuse to give Security, His Majesty doth hereby Impower the said Consul to restrain him from receiving any <hi>Turks,</hi> or their goods on board his Ship or Vessel. And whereas by the respective Articles of Peace it is agreed, That the Passes of the High Admiral of <hi>England</hi> for the time being shall be sufficient evidence that the Ship belongeth to His Majesties Subjects, and that upon producing thereof the Ship shall be suffered to pass without further molestation, whereby all pretences of diverting the Ships of His Majesties Subjects from their intended course, in order to further examination, may be taken away; which as it is of great convenience and ease of His Majesties Subjects, so the abuse thereof might be of ill consequence, if Foreigners should by indirect means procure the said Passes, or counterfeit the same, whereby not only the benefit of the Peace which His Majesty hath with expence of so much Trea<g ref="char:EOLhyphen"/>sure obtained for His own Subjects, should be derived to strangers, but also occasion of breach might be gi<g ref="char:EOLhyphen"/>ven to the <hi>Turks,</hi> upon supposition of wilful abuse therein by His Majesties protecting others then His own Subjects: For the preventing thereof, His Majesty hath not only given Order that no Passes shall be granted, but upon <hi>Affidavit</hi> made that the Ship belongeth to His Majesties Subjects, and no other, but also that Counterparts of the said Passes should be sent to the respective Governours of <hi>Argiers, Tunis</hi> and <hi>Tripoli,</hi> so as each of their men of War may carry with them one of the said Counterparts, whereby the counterfeiting of Passes will be rendred ineffectual to such as shall attempt the same. And for the ease of such of His Majesties Subjects as dwell remote from His Majesties City of <hi>London,</hi> His Majesty hath given Order, That upon <hi>Affidavit</hi> made before the Magistrate of any City or Town-Corporate, and Certifi<g ref="char:EOLhyphen"/>ed under their Common Seal to His High-Admiral of <hi>England</hi> for the time being, a Pass shall be granted without further trouble; Whereof His Majesty willeth all His good Subjects to take notice.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at <hi>Whitehall,</hi>
+                  </hi>
+                  <date>
+                     <hi>January <hi>the 29<seg rend="sup">th</seg> 1663/2.</hi>
+                     </hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty, 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
